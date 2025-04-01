@@ -45,9 +45,9 @@ const Chef = () => {
           What Our Customers Say About Us
         </h1>
         <p className="mt-6 text-lg md:text-xl text-gray-600">
-          "I had the pleasure of dining at Foodi last night, and I'm still
+          &quote;I had the pleasure of dining at Foodi last night, and I&apos;m still
           raving about the experience! The attention to detail in presentation
-          and service was impeccable"
+          and service was impeccable&quote;
         </p>
         <div className="mt-8">
           <h3 className="text-2xl font-bold">Customers Feedback</h3>
