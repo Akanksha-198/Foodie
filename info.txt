@@ -1,0 +1,10 @@
+
+// prisma installation Commands
+ yarn add prisma @prisma/client
+ npx prisma init --datasource-provider postgresql
+
+ //docker install 
+ // then docker folder and its docker-compose.yml is created 
+// then 
+ cd src/docker
+docker compose up
