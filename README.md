@@ -1,5 +1,5 @@
-# 🍕 Introducing Foodie – A Full-Stack Food Delivery App! 🚀
-# I'm excited to share Foodie, a full-stack food delivery web app built using Next.js, TypeScript, Tailwind CSS, Prisma, Docker, and PostgreSQL! 🍽️
+🍕 Introducing Foodie – A Full-Stack Food Delivery App! 🚀
+I'm excited to share Foodie, a full-stack food delivery web app built using Next.js, TypeScript, Tailwind CSS, Prisma, Docker, and PostgreSQL! 🍽️
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [create-next-app](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
